@@ -1,0 +1,6 @@
+Dado un array de integers nums[] que esta ordenado
+de forma ascendente y un integer target, 
+escribe una funcion para buscar el target en nums
+, si el target existe, devuelves el indice, 
+sino devuelves -1
+

@@ -1,0 +1,18 @@
+Dado un array de integers nums[] y un integer
+llamado target, retorna los incide de los dos
+numeros que sumados sean igual a target
+
+asume que cada input tiene solo una solucion
+y no puedes usar el mismo elemento dos veces
+
+ejemplo 1:
+input: nums = [2,7,11,15], target = 9
+output: [0,1]
+
+ejemplo 2:
+input: nums = [3,2,4], target = 6
+output: [1,2]
+
+ejemplo 3
+input: nums = [3,3] , target = 6
+output: [0,1]
